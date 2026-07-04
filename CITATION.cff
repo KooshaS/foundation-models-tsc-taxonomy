@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "A System-Driven Taxonomy of Foundation Models for Time Series Classification"
+message: "If you use this work, please cite it as follows."
+type: article
+
+authors:
+  - family-names: "Sadeghi"
+    given-names: "Koosha"
+
+doi: 10.5281/zenodo.21195950
+
+repository-code: "https://github.com/KooshaS/foundation-models-tsc-taxonomy"
+
+url: "https://github.com/KooshaS/foundation-models-tsc-taxonomy"
+
+abstract: >
+  A system-driven taxonomy of foundation models for time series classification,
+  organized around design, scale, interface, and deployment.
+
+keywords:
+  - time series
+  - time series classification
+  - foundation models
+  - machine learning
+  - deep learning
+  - taxonomy
+  - survey
+  - transformers
+
+license: CC-BY-4.0
