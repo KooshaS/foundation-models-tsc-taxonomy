@@ -13,7 +13,7 @@ Our analysis reveals that pre-training is heavily concentrated in time-series-na
 ## Paper
 
 📄 Download the latest paper from the Releases section:
-https://github.com/KooshaS/foundation-models-tsc-taxonomy/releases/latest
+[https://github.com/KooshaS/foundation-models-tsc-taxonomy/releases/latest](https://github.com/KooshaS/foundation-models-tsc-taxonomy/releases/download/v1.0.1/tsc_fm_taxonomy.pdf)
 
 ## DOI
 
