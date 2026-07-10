@@ -26,5 +26,5 @@ https://doi.org/10.5281/zenodo.21195950
 
 Please cite this work using the Zenodo DOI above.
 
-Suggested citation (IEEE):
+Suggested citation (IEEE):<br>
 K. Sadeghi, A System-Driven Taxonomy of Foundation Models for Time Series Classification, Zenodo, 2026. doi:10.5281/zenodo.21195949.
