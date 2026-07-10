@@ -20,7 +20,7 @@ Our analysis reveals that pre-training is heavily concentrated in time-series-na
 
 ## DOI
 
-https://doi.org/10.5281/zenodo.21195950
+[https://doi.org/10.5281/zenodo.21195950](https://zenodo.org/records/21301165)
 
 ## Citation
 
